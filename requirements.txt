@@ -1,0 +1,5 @@
+# netsec-toolkit dependencies
+# Core scanning uses only Python standard library (socket, ssl, ipaddress, etc.)
+# Rich is the sole external dependency for terminal formatting.
+
+rich>=13.0.0
