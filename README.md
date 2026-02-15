@@ -1,3 +1,5 @@
+![CI](https://github.com/stabrea/netsec-toolkit/actions/workflows/ci.yml/badge.svg)
+
 # netsec-toolkit
 
 ```
