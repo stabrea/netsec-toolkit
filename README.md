@@ -57,7 +57,7 @@ A comprehensive, modular network security toolkit built in Python for authorized
 
 ```bash
 # Clone the repository
-git clone https://github.com/taofikbishi/netsec-toolkit.git
+git clone https://github.com/stabrea/netsec-toolkit.git
 cd netsec-toolkit
 
 # Create a virtual environment (recommended)
@@ -217,4 +217,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-Built by [Taofik Bishi](https://github.com/taofikbishi) for educational and authorized security testing purposes.
+Built by [Taofik Bishi](https://github.com/stabrea) for educational and authorized security testing purposes.
